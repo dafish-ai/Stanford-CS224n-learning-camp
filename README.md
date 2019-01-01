@@ -1,4 +1,7 @@
-# 深度学习之自然语言处理斯坦福大学CS224n课程集训营
+# # 大鱼AI🐟 ：深度学习之自然语言处理斯坦福大学CS224n课程集训营
+### 视频课程主讲：Manning ：斯坦福人工智能实验室主任  
+### 先修课程：斯坦福机器学习（吴恩达）  
+### 这门课的宗旨就是：从机器学习者成为NLP算法工程师，参加Kaggle比赛证明自己
 
 ## 课程资料
 1. [课程主页](https://web.stanford.edu/class/cs224n/)  
@@ -18,7 +21,7 @@
 7. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
 7. [哈佛大学NLP实验室](http://nlp.seas.harvard.edu/)  
 8. [清华大学NLP实验室总结机器阅读论文、数据集](https://github.com/thunlp/RCPapers)  
-9. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
+9. [导师博客(机器学习深度学习专题)](https://blog.csdn.net/dukuku5038/column/info/28693)  
 10. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
 11. [斯坦福cs20I课件](https://github.com/learning511/cs224n-learning-camp/tree/master/cs20is)  
 12. [AI比赛经验+开源代码汇总](https://blog.csdn.net/dukuku5038/article/details/84195750)  
@@ -75,7 +78,14 @@
 <5> [查询自己成绩:](https://shimo.im/sheet/fUz1SurlKPgAMecw/RIDOC)  
  
 ##  教程  
-### Week1
+### week 1  
+**知识点复习**  
+**学习组队**  
+**比赛观摩**  
+
+**作业 Week1：**:  
+制定自己的学习计划，开通自己的学习博客，注册自己的github  
+### Week2
 1. 自然语言处理和深度学习简介  
 - **课件:** [lecture01](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture1.pdf)
 - [观看视频1](https://www.bilibili.com/video/av30326868/?spm_id_from=333.788.videocard.0)
@@ -93,7 +103,7 @@
 4. 作业：[Assignment 1.1-1.2](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md)  
 - 1.1 Softmax 算法
 - 1.2 Neural Network Basics 神经网络基础实现
-### Week2
+### Week3
 1.  高级词向量表示：word2vec 2
 - **课件:** [lecture03](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture3.pdf)
 - [观看视频3](https://www.bilibili.com/video/av30326868/?p=3)
@@ -111,7 +121,7 @@
 4. 作业：[Assignment 1.3-1.4](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md)  
 - 1.3 word2vec 实现
 - 1.4 Sentiment Analysis 情绪分析  
-### Week3
+### Week4
 1. 反向传播与项目指导：Backpropagation and Project Advice
 - **课件:** [lecture05](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture5.pdf)
 - [观看视频5](https://www.bilibili.com/video/av30326868/?p=5)
@@ -130,7 +140,7 @@
 - 2.0.1 预习TensorFlow  
 - 2.0.2 仔细阅读作业2的要求，自学作业里要求里提到的神经网络训练方法  
 
-### Week4
+### Week5
 1. TensorFlow入门
 - **课件:** [lecture07](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture7-tensorflow.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=7)
@@ -149,7 +159,7 @@
 - 2.1 Tensorflow Softmax 基于TensorFlow的softmax分类  
 - 2.2 Neural Transition-Based Dependency Parsing 基于神经网络的依赖分析  
 
-### Week5
+### Week6
 1.  高级LSTM及GRU：LSTM and GRU
 - **课件:** [lecture09](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture9.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=9)
@@ -166,7 +176,7 @@
 4. 作业：[Assignment 2.3](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md) 
 - 2.3 Recurrent Neural Networks: Language Modeling 循环神经网络语言建模
 
-### Week6
+### Week7
 1.  机器翻译、序列到序列、注意力模型：Machine Translation, Seq2Seq and Attention 
 - **课件:** [lecture10](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture10.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=10)
@@ -184,7 +194,7 @@
 4. 作业：[Assignment 3.1](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md) 
 - 3.1  A window into named entity recognition（NER）基于窗口模式的名称识别
 
-### Week7
+### Week8
 1.  语音识别的end-to-end模型
 - **课件:** [lecture12](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture12.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=12)
@@ -203,7 +213,7 @@
 - 3.2  Recurrent neural nets for named entity recognition(NER) 基于RNN的名称识别
 
 
-### Week8
+### Week9
 1.  Tree RNN与短语句法分析
 - **课件:** [lecture14](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture14.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=14)
@@ -220,7 +230,7 @@
 - **论文笔记：**[Character-Aware神经网络语言模型](http://www.hankcs.com/nlp/cs224n-character-aware-neural-language-models.html)
 4. **作业**：[Assignment 3.3](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md) 
 - 3.3  Grooving with GRUs(（NER）基于GRU的名称识别  
-### Week9
+### Week10
 1.   DMN与问答系统
 - **课件:** [lecture16](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture16.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=16)
@@ -238,7 +248,7 @@
 4. **课程大作业：**  
 [Kaggle：Quora垃圾问题分类](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
-### Week10 
+### Week11
 1. 挑战深度学习与自然语言处理的极限
 - **课件:** [lecture18](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture18.pdf)
 - [观看视频](https://www.bilibili.com/video/av30326868/?p=18)
@@ -254,7 +264,7 @@
 - **论文分析:** [highlight](https://github.com/learning511/cs224n-learning-camp/blob/master/paper/highlight/cs224n-2017-lecture11-highlight.pdf)  
 - **论文笔记：**[深度强化学习用于对话生成](http://www.hankcs.com/nlp/cs224n-deep-reinforcement-learning-for-dialogue-generation.html)
 
- ### Week11
+ ### Week12
  1. **论文导读**：图像对话
 - **论文原文:** [paper](https://github.com/learning511/cs224n-learning-camp/blob/master/paper/Visual%20Dialog.pdf)
 - **论文分析:** [highlight](https://github.com/learning511/cs224n-learning-camp/blob/master/paper/highlight/cs224n-2017-lecture5-highlight.pdf)  
